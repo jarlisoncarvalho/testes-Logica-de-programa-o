@@ -4,7 +4,7 @@ class program
 {
     static void Main(string[] args)
     {
-        int a = 2;
+        int a = 7;
         int b = a - 6;
         int[] v = new int[a];
         while (b < a)
